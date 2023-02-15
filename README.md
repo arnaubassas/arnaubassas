@@ -6,7 +6,7 @@
 A passionate frontend developer from Barcelona, Spain
 ```
 
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me: arnau_b17@hotmail.com
 
 
