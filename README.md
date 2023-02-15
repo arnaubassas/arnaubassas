@@ -1,4 +1,22 @@
-### Hi there 👋
+## Hi 👋, I'm Arnau Bassas <br>
+
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
+```javascript
+A passionate frontend developer from Barcelona, Spain
+```
+
+- 🌱 I’m currently learning web development
+- 📫 How to reach me: arnau_b17@hotmail.com
+
+
+#### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,css,typescript,html,git&theme=light)](https://skillicons.dev)
+
+#### Find me around the web 🌎:
+- 🌐 Updating my personal website with examples of my work on 
+- 💼 Connecting and sharing professional updates on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/arnau-bassas-cordoba)
+- :star: Contributing on: [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/arnaubassas)
 
 <!--
 **arnaubassas/arnaubassas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
