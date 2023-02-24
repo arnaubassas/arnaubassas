@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,css,typescript,html,git&theme=light)](https://skillicons.dev)
 
 #### Find me around the web 🌎:
-- 🌐 Updating my personal website with examples of my work on 
+- 🌐 Updating my personal website with examples of my work on https://arnaubassas.github.io/portfolio/
 - 💼 Connecting and sharing professional updates on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/arnau-bassas-cordoba)
 - :star: Contributing on: [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/arnaubassas)
 
